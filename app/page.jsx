@@ -10,8 +10,8 @@ export default function Home() {
        <PillNav
           items={[
             { label: "Home", href: "#hero-section" },
-            { label: "About", href: "#about-me" },
             { label: "Services", href: "#projects-section" },
+            { label: "About", href: "#about-me" },
             { label: "Contact", href: "#contact-form" },
           ]}
           activeHref="/"
